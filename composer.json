@@ -1,0 +1,13 @@
+{
+    "name": "mhlavac/font-just-another-hand",
+    "description": "Just Another Hand font from Google fonts",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Martin Hlavac",
+            "email": "info@mhlavac.net"
+        }
+    ],
+    "require": {}
+}
